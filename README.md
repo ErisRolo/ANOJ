@@ -1,3 +1,4 @@
 # ANOJ
-Algorithm Note Online Judge（晴神OJ）
-据说膜晴神考PAT有buff加成~
+Algorithm Note Online Judge（晴神OJ）题解
+膜晴神 √  
+PAT考试buff加成 get√  
