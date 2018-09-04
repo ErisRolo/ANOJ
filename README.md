@@ -1,4 +1,4 @@
 # ANOJ
 Algorithm Note Online Judge（晴神OJ）题解  
-膜晴神 √  
-PAT考试buff加成 get√  
+膜晴神√  
+PAT buff get√  
