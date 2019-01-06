@@ -1,3 +1,4 @@
 # ANOJ
 Algorithm Note Online Judge（晴神OJ）题解
-明天不会xjb改README了
+
+胃病犯了，摸鱼一天，耻辱下机
