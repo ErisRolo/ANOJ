@@ -1,2 +1,2 @@
 # ANOJ
-Algorithm Note Online Judge（[晴神OJ](https://logn.me/)）题解
+Algorithm Note Online Judge（[晴神OJ](https://judger.net/)）题解
